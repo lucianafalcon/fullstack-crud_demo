@@ -66,12 +66,11 @@ Planned modules include:
 
 ### Execution
 
-1. Download from [mysql.com](https://dev.mysql.com/downloads/).
-2. Install [MySQL Server](https://dev.mysql.com/downloads/mysql/) (**required**).
-3. (Optional) Install [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) as a graphical client.
+1. [MySQL Server](https://dev.mysql.com/downloads/mysql/) (**required**).
+2. (Optional) Install [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) as a graphical client.
 
 ### Extra (Recommended Tools)
 
-4. [Lucidchart](https://lucid.app/) for designing DER.
-5. [Mockaroo](https://www.mockaroo.com/) Generate test data.
+3. [Lucidchart](https://lucid.app/) for designing DER.
+4. [Mockaroo](https://www.mockaroo.com/) Generate test data.
 
