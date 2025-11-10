@@ -10,13 +10,6 @@ Its goal is to serve as a reference and practice material to strengthen knowledg
 
 ## Table of Contents
 
-1. [JavaScript Modules](#-javascript-modules)
-2. [SQL Modules](#-sql-modules)
-
----
-
-## JavaScript Modules
-
 ![FullStack CRUD Demo Banner](https://img.shields.io/badge/FullStack-JavaScript-blue?style=for-the-badge&logo=javascript)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucianafalcon/fullstack_crud_demo?style=flat-square)
 
@@ -41,6 +34,8 @@ Mini-proyects:
 
 - **Ecommerce Cart ** [Live Demo](https://lucianafalcon.github.io/Fullstack_Crud_Demo/ecommerce.html)
   - **Features:** Add/remove products, persist in localStorage
+
+---
 
 ### Execution
 
